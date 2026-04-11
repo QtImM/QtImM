@@ -11,6 +11,11 @@
 <div align="center">
   <img
     height="150"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qtimm&theme=github_dark"
+    alt="GitHub stats"
+  />
+  <img
+    height="150"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qtimm&theme=github_dark"
     alt="Most used languages"
   />
